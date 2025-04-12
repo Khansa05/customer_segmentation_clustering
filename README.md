@@ -57,4 +57,3 @@ git clone https://github.com/Khansa05/customer-segmentation.git
 cd customer-segmentation
 pip install -r requirements.txt
 streamlit run app.py
----
