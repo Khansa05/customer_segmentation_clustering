@@ -13,6 +13,13 @@ To group customers into meaningful segments based on:
 This helps in targeting customers with personalized marketing strategies.
 
 ---
+## Streamlit App Access
+The Streamlit app is protected with a password for security reasons.
+
+🔑 **Password**: `35.236.135.9`  
+🌐 **Access the app via LocalTunnel**: [Click here](https://six-wings-repeat.loca.lt/)
+
+---
 
 ## 📁 Dataset
 We used the **Mall Customer Segmentation Dataset** which includes the following features:
@@ -51,8 +58,3 @@ cd customer-segmentation
 pip install -r requirements.txt
 streamlit run app.py
 ---
-## Streamlit App Access
-The Streamlit app is protected with a password for security reasons.
-
-🔑 **Password**: `35.236.135.9`  
-🌐 **Access the app via LocalTunnel**: [Click here](https://six-wings-repeat.loca.lt/)
