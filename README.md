@@ -21,7 +21,6 @@ We used the **Mall Customer Segmentation Dataset** which includes the following 
 - `Age`
 - `Annual Income (k$)`
 - `Spending Score (1-100)`
-
 ---
 
 ## 🧪 Steps Performed
@@ -36,7 +35,6 @@ We used the **Mall Customer Segmentation Dataset** which includes the following 
    - Grouped customer data by cluster and analyzed behavioral traits.
 5. **Streamlit App**
    - Built an interactive dashboard using Streamlit to visualize customer segments.
-
 ---
 
 ## 🧠 Key Insights
@@ -44,13 +42,17 @@ We used the **Mall Customer Segmentation Dataset** which includes the following 
 - Low-income, high-spending groups can be risky but interesting.
 - Age and income show strong patterns in customer behavior.
 - Visual segmentation helped businesses target customers effectively.
-
 ---
 
-## 🛠️ Requirements
-Install dependencies using:
+## Clone the Repository
+```bash
 git clone https://github.com/Khansa05/customer-segmentation.git
 cd customer-segmentation
-```bash
 pip install -r requirements.txt
 streamlit run app.py
+---
+## Streamlit App Access
+The Streamlit app is protected with a password for security reasons.
+
+🔑 **Password**: `35.236.135.9`  
+🌐 **Access the app via LocalTunnel**: [Click here](https://six-wings-repeat.loca.lt/)
